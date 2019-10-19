@@ -1,0 +1,31 @@
+{
+  "name": "@dennisvash/prettier-config",
+  "version": "0.3.0",
+  "description": "Base prettier configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denvash/prettier-config"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "Dennis Vash",
+    "denvash"
+  ],
+  "author": {
+    "name": "Dennis Vash",
+    "email": "dennisvash@gmail.com",
+    "twitter": "@dennisvash"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denvash/prettier-config/issues"
+  },
+  "scripts": {
+    "precommit": "pretty-quick --staged"
+  },
+  "dependencies": {
+    "prettier": "^1.x.x"
+  }
+}
