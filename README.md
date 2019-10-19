@@ -1,6 +1,6 @@
 # prettier-config
 
-![npm](https://img.shields.io/npm/v/@dennisvash/prettier-config?style=for-the-badge)
+[![npm](https://img.shields.io/npm/v/@dennisvash/prettier-config?style=for-the-badge)](https://www.npmjs.com/package/@dennisvash/prettier-config)
 
 [Mine](https://dennisvash.com) [`prettier`](https://prettier.io) configuration.
 

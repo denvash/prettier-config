@@ -1,6 +1,6 @@
 {
   "name": "@dennisvash/prettier-config",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Base prettier configuration",
   "main": "index.js",
   "repository": {
