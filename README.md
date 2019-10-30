@@ -11,15 +11,13 @@ Pairs well with mine [`ESLint configuration`](https://www.npmjs.com/package/@den
 ### yarn
 
 ```sh
-yarn add --dev prettier
 yarn add --dev @dennisvash/prettier-config prettier
 ```
 
 ### npm
 
 ```sh
-npm install --save-dev prettier
-npm install --save-dev @dennisvash/prettier-config
+npm install --save-dev @dennisvash/prettier-config prettier
 ```
 
 ## Usage
